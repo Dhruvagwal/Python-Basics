@@ -15,6 +15,3 @@ def function():
 
 for i in range(0,10):
     function()
-
-
-print(count)
